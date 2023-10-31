@@ -1,3 +1,5 @@
+/* Add your CSS styles here */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -19,4 +21,9 @@ nav ul {
 nav li {
     display: inline;
     margin-right: 20px;
+}
+
+.gallery img {
+    width: 300px; /* Set the desired width for your gallery images */
+    margin: 10px;
 }
